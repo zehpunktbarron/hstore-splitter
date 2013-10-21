@@ -1,4 +1,4 @@
-hstore2shp
+hstore-splitter
 ==========
 
 This straigth forward script splits a postgres table-column with tags in the hstore format into single columns. You may use it if you want have OSM date stored in a postgres database and want to export the data to a shapefile. Shapes do not support hstore and require a column for each indivudal OSM key
