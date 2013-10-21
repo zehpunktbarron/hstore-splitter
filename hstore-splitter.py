@@ -1,13 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/python2.7
 
-#description     :This file creates a plot: Calculate the actuality of all points
-#author          :Christopher Barron
-#date            :19.10.2013
-#version         :0.1
-#usage           :python pyscript.py
-#==============================================================================
-
 import psycopg2
 import numpy as np
 
